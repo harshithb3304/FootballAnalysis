@@ -117,3 +117,6 @@ venv.bak/
 
 # Others
 *.swp
+
+output_videos/
+input_videos/
